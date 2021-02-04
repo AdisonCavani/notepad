@@ -117,7 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lblCopyright.Text" xml:space="preserve">
-    <value>System operacyjny Windows 10 Home i jego interfejs użytkownika są prawnie chronione przepisami o znakach towarowych oraz przez złożone lub zaakceptowane wnioski o prawną ochronę własności intelektualnej w Stanach Zjednoczonych i innych krajach/regionach.</value>
-  </data>
 </root>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Notatnik
+namespace Notepad
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Notatnik
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Notatnik());
+            Application.Run(new Notepad());
         }
     }
 }

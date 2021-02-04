@@ -1,5 +1,5 @@
 ﻿
-namespace Notatnik
+namespace Notepad
 {
     partial class frmAbout
     {
@@ -29,7 +29,6 @@ namespace Notatnik
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmAbout));
             this.btnOK = new System.Windows.Forms.Button();
             this.separatorBar = new System.Windows.Forms.Label();
             this.lblWindows = new System.Windows.Forms.Label();
@@ -62,7 +61,6 @@ namespace Notatnik
             this.separatorBar.Name = "separatorBar";
             this.separatorBar.Size = new System.Drawing.Size(400, 2);
             this.separatorBar.TabIndex = 2;
-            this.separatorBar.Click += new System.EventHandler(this.separatorBar_Click);
             // 
             // lblWindows
             // 
@@ -77,13 +75,15 @@ namespace Notatnik
             // 
             this.lblCopyright.Location = new System.Drawing.Point(49, 186);
             this.lblCopyright.Name = "lblCopyright";
-            this.lblCopyright.Size = new System.Drawing.Size(355, 58);
+            this.lblCopyright.Size = new System.Drawing.Size(348, 58);
             this.lblCopyright.TabIndex = 4;
-            this.lblCopyright.Text = resources.GetString("lblCopyright.Text");
+            this.lblCopyright.Text = "The Windows 10 Home operating system and its user interface are protected by trad" +
+    "emark and other pending or existing intellectual property rights in the United S" +
+    "tates and other countries/regions.";
             // 
             // notepadPic
             // 
-            this.notepadPic.Image = global::Notatnik.Properties.Resources.notatnik_ikona;
+            this.notepadPic.Image = global::Notepad.Properties.Resources.notepad_icon;
             this.notepadPic.Location = new System.Drawing.Point(15, 109);
             this.notepadPic.Name = "notepadPic";
             this.notepadPic.Size = new System.Drawing.Size(30, 30);
@@ -93,23 +93,21 @@ namespace Notatnik
             // 
             // WindowsPic
             // 
-            this.WindowsPic.Image = global::Notatnik.Properties.Resources.windows_logo2;
+            this.WindowsPic.Image = global::Notepad.Properties.Resources.windows_logo;
             this.WindowsPic.Location = new System.Drawing.Point(19, 12);
             this.WindowsPic.Name = "WindowsPic";
             this.WindowsPic.Size = new System.Drawing.Size(400, 73);
             this.WindowsPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.WindowsPic.TabIndex = 1;
             this.WindowsPic.TabStop = false;
-            this.WindowsPic.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // lblLicenceUser
             // 
             this.lblLicenceUser.Location = new System.Drawing.Point(49, 275);
             this.lblLicenceUser.Name = "lblLicenceUser";
-            this.lblLicenceUser.Size = new System.Drawing.Size(355, 32);
+            this.lblLicenceUser.Size = new System.Drawing.Size(328, 32);
             this.lblLicenceUser.TabIndex = 6;
-            this.lblLicenceUser.Text = "Licencję na ten produkt zgodnie z Postanowieniami licencyjymi dotyczącymi oprogra" +
-    "mowania firmy Microsoft posiada:";
+            this.lblLicenceUser.Text = "This product is licensed under the Microsoft Software License Terms to:";
             // 
             // lblUsername
             // 
@@ -118,7 +116,6 @@ namespace Notatnik
             this.lblUsername.Size = new System.Drawing.Size(340, 19);
             this.lblUsername.TabIndex = 7;
             this.lblUsername.Text = "Username";
-            this.lblUsername.Click += new System.EventHandler(this.userName_Click);
             // 
             // lblCopyrightInfo
             // 
@@ -126,8 +123,7 @@ namespace Notatnik
             this.lblCopyrightInfo.Name = "lblCopyrightInfo";
             this.lblCopyrightInfo.Size = new System.Drawing.Size(355, 19);
             this.lblCopyrightInfo.TabIndex = 8;
-            this.lblCopyrightInfo.Text = "copyrightInfo";
-            this.lblCopyrightInfo.Click += new System.EventHandler(this.lblCopyrightInfo_Click);
+            this.lblCopyrightInfo.Text = "© 2019 Microsoft Corporation. All rights reserved.";
             // 
             // lblWindowsBuild
             // 
@@ -158,7 +154,7 @@ namespace Notatnik
             this.Name = "frmAbout";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Notatnik - informacje";
+            this.Text = "About Notepad";
             this.Load += new System.EventHandler(this.frmAbout_Load);
             ((System.ComponentModel.ISupportInitialize)(this.notepadPic)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.WindowsPic)).EndInit();

@@ -117,473 +117,180 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="zoomInToolStripMenuItem.ShortcutKeyDisplayString" xml:space="preserve">
-    <value>Ctrl+Plus</value>
-  </data>
-  <data name="&gt;&gt;helpToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="formatToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="zoomLbl.Width" type="System.Int32, mscorlib">
-    <value>45</value>
-  </data>
-  <data name="&gt;&gt;textBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;zoomOutToolStripMenuItem.Name" xml:space="preserve">
-    <value>zoomOutToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;aboutNotepadToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;statusBar.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;exitToolStripMenuItem1.Name" xml:space="preserve">
-    <value>exitToolStripMenuItem1</value>
-  </data>
-  <data name="&gt;&gt;countLbl.Name" xml:space="preserve">
-    <value>countLbl</value>
-  </data>
-  <data name="&gt;&gt;saveToolStripMenuItem.Name" xml:space="preserve">
-    <value>saveToolStripMenuItem</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="zoomInToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Oemplus</value>
-  </data>
-  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
-    <value>Help</value>
-  </data>
-  <data name="&gt;&gt;textBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="copyToolStripMenuItem.Text" xml:space="preserve">
-    <value>Copy</value>
-  </data>
-  <data name="restoreDefaultZoomToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+0</value>
-  </data>
-  <data name="&gt;&gt;fileToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="toolStripMenuItem3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>161, 6</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;viewHelpToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="timeDateToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 22</value>
-  </data>
-  <data name="statusBar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 428</value>
-  </data>
-  <data name="&gt;&gt;statusBarToolStripMenuItem.Name" xml:space="preserve">
-    <value>statusBarToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;formatToolStripMenuItem.Name" xml:space="preserve">
-    <value>formatToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="openToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+O</value>
-  </data>
-  <data name="undoToolStripMenuItem.Text" xml:space="preserve">
-    <value>Undo</value>
-  </data>
-  <data name="deleteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 22</value>
-  </data>
-  <data name="zoomOutToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+OemMinus</value>
-  </data>
-  <data name="timeDateToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>F5</value>
-  </data>
-  <data name="&gt;&gt;blankLbl.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusBarPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;windowsLbl.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusBarPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Notepad</value>
-  </data>
-  <data name="&gt;&gt;fontToolStripMenuItem.Name" xml:space="preserve">
-    <value>fontToolStripMenuItem</value>
-  </data>
-  <data name="textBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="sendFeedbackToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>156, 22</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="restoreDefaultZoomToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>229, 22</value>
-  </data>
-  <data name="&gt;&gt;viewToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="saveAsToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Shift+S</value>
-  </data>
-  <data name="newToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+N</value>
-  </data>
-  <data name="statusBarToolStripMenuItem.Text" xml:space="preserve">
-    <value>Status Bar</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
-  <data name="sendFeedbackToolStripMenuItem.Text" xml:space="preserve">
-    <value>Send Feedback</value>
-  </data>
-  <data name="openToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>220, 22</value>
-  </data>
-  <data name="pasteToolStripMenuItem.Text" xml:space="preserve">
-    <value>Paste</value>
-  </data>
-  <data name="statusBar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>800, 22</value>
-  </data>
   <data name="newToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>220, 22</value>
-  </data>
-  <data name="&gt;&gt;menuBar.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;newWindowToolStripMenuItem.Name" xml:space="preserve">
-    <value>newWindowToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;zoomLbl.Name" xml:space="preserve">
-    <value>zoomLbl</value>
-  </data>
-  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 6</value>
-  </data>
-  <data name="undoToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Z</value>
-  </data>
-  <data name="&gt;&gt;exitToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;restoreDefaultZoomToolStripMenuItem.Name" xml:space="preserve">
-    <value>restoreDefaultZoomToolStripMenuItem</value>
-  </data>
-  <data name="selectAllToolStripMenuItem.Text" xml:space="preserve">
-    <value>Select All</value>
-  </data>
-  <data name="zoomToolStripMenuItem.Text" xml:space="preserve">
-    <value>Zoom</value>
-  </data>
-  <data name="&gt;&gt;copyToolStripMenuItem.Name" xml:space="preserve">
-    <value>copyToolStripMenuItem</value>
-  </data>
-  <data name="aboutNotepadToolStripMenuItem1.Text" xml:space="preserve">
-    <value>About Notepad</value>
-  </data>
-  <data name="&gt;&gt;newToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="menuBar.AutoSize" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="restoreDefaultZoomToolStripMenuItem.Text" xml:space="preserve">
-    <value>Restore Default Zoom</value>
-  </data>
-  <data name="editToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 20</value>
-  </data>
-  <data name="textBox.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
-    <value>Both</value>
-  </data>
-  <data name="copyToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+C</value>
-  </data>
-  <data name="&gt;&gt;viewHelpToolStripMenuItem1.Name" xml:space="preserve">
-    <value>viewHelpToolStripMenuItem1</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItem2.Name" xml:space="preserve">
-    <value>toolStripMenuItem2</value>
-  </data>
-  <data name="&gt;&gt;undoToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="formatToolStripMenuItem.Text" xml:space="preserve">
-    <value>Format</value>
-  </data>
-  <data name="menuBar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;zoomOutToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="textBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 20</value>
-  </data>
-  <data name="saveToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>220, 22</value>
-  </data>
-  <data name="&gt;&gt;pasteToolStripMenuItem.Name" xml:space="preserve">
-    <value>pasteToolStripMenuItem</value>
-  </data>
-  <data name="deleteToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Del</value>
-  </data>
-  <data name="&gt;&gt;statusBar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="cutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 22</value>
-  </data>
-  <data name="pasteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 22</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-89, 18</value>
-  </data>
-  <data name="textBox.WordWrap" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="cutToolStripMenuItem.Text" xml:space="preserve">
-    <value>Cut</value>
-  </data>
-  <data name="&gt;&gt;fontToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;statusBarToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Notepad</value>
-  </data>
-  <data name="&gt;&gt;zakończToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;openToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="zoomToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 22</value>
-  </data>
-  <data name="&gt;&gt;newToolStripMenuItem.Name" xml:space="preserve">
-    <value>newToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;editToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;fileToolStripMenuItem.Name" xml:space="preserve">
-    <value>fileToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;deleteToolStripMenuItem.Name" xml:space="preserve">
-    <value>deleteToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;codingLbl.Name" xml:space="preserve">
-    <value>codingLbl</value>
-  </data>
-  <data name="statusBarToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 22</value>
-  </data>
-  <data name="saveToolStripMenuItem.Text" xml:space="preserve">
-    <value>Save</value>
-  </data>
-  <data name="countLbl.Name" xml:space="preserve">
-    <value>countLbl</value>
-  </data>
-  <data name="aboutNotepadToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>156, 22</value>
-  </data>
-  <data name="&gt;&gt;helpToolStripMenuItem.Name" xml:space="preserve">
-    <value>helpToolStripMenuItem</value>
-  </data>
-  <data name="newWindowToolStripMenuItem.Text" xml:space="preserve">
-    <value>New Window</value>
-  </data>
-  <data name="&gt;&gt;menuBar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="textBox.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="fontToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>134, 22</value>
-  </data>
-  <data name="menuBar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>800, 20</value>
-  </data>
-  <data name="&gt;&gt;menuBar.Name" xml:space="preserve">
-    <value>menuBar</value>
-  </data>
-  <data name="&gt;&gt;zoomInToolStripMenuItem.Name" xml:space="preserve">
-    <value>zoomInToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;timeDateToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="fontToolStripMenuItem.Text" xml:space="preserve">
-    <value>Font...</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItem3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="menuBar.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>6, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;editToolStripMenuItem.Name" xml:space="preserve">
-    <value>editToolStripMenuItem</value>
-  </data>
-  <data name="newWindowToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>220, 22</value>
-  </data>
-  <data name="timeDateToolStripMenuItem.Text" xml:space="preserve">
-    <value>Time/Date</value>
-  </data>
-  <data name="viewHelpToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>156, 22</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItem1.Name" xml:space="preserve">
-    <value>toolStripMenuItem1</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItem3.Name" xml:space="preserve">
-    <value>toolStripMenuItem3</value>
-  </data>
-  <data name="&gt;&gt;sendFeedbackToolStripMenuItem.Name" xml:space="preserve">
-    <value>sendFeedbackToolStripMenuItem</value>
-  </data>
-  <data name="zoomInToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>229, 22</value>
-  </data>
-  <data name="&gt;&gt;codingLbl.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusBarPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="saveAsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>220, 22</value>
-  </data>
-  <data name="zoomOutToolStripMenuItem.ShortcutKeyDisplayString" xml:space="preserve">
-    <value>Ctrl+Minus</value>
-  </data>
-  <data name="&gt;&gt;selectAllToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="exitToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>220, 22</value>
-  </data>
-  <data name="&gt;&gt;restoreDefaultZoomToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;countLbl.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusBarPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="exitToolStripMenuItem1.Text" xml:space="preserve">
-    <value>Exit</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="menuBar.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="selectAllToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 22</value>
-  </data>
-  <data name="viewToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>36, 20</value>
-  </data>
-  <data name="&gt;&gt;textBox.Name" xml:space="preserve">
-    <value>textBox</value>
+    <value>213, 22</value>
   </data>
   <data name="newToolStripMenuItem.Text" xml:space="preserve">
-    <value>New</value>
+    <value>Nowy</value>
   </data>
-  <data name="selectAllToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+A</value>
+  <data name="newWindowToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
   </data>
-  <data name="&gt;&gt;timeDateToolStripMenuItem.Name" xml:space="preserve">
-    <value>timeDateToolStripMenuItem</value>
+  <data name="newWindowToolStripMenuItem.Text" xml:space="preserve">
+    <value>Nowe okno</value>
   </data>
-  <data name="&gt;&gt;zoomToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="openToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
   </data>
-  <data name="fileToolStripMenuItem.Text" xml:space="preserve">
-    <value>File</value>
+  <data name="openToolStripMenuItem.Text" xml:space="preserve">
+    <value>Otwórz...</value>
   </data>
-  <data name="&gt;&gt;aboutNotepadToolStripMenuItem1.Name" xml:space="preserve">
-    <value>aboutNotepadToolStripMenuItem1</value>
+  <data name="saveToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
   </data>
-  <data name="&gt;&gt;viewToolStripMenuItem.Name" xml:space="preserve">
-    <value>viewToolStripMenuItem</value>
+  <data name="saveToolStripMenuItem.Text" xml:space="preserve">
+    <value>Zapisz</value>
   </data>
-  <data name="zoomOutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>229, 22</value>
+  <data name="saveAsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
+  </data>
+  <data name="saveAsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Zapisz jako...</value>
   </data>
   <data name="zakończToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>217, 6</value>
+    <value>210, 6</value>
   </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="exitToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
   </data>
-  <data name="&gt;&gt;saveAsToolStripMenuItem.Name" xml:space="preserve">
-    <value>saveAsToolStripMenuItem</value>
+  <data name="exitToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Zakończ</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="fileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 20</value>
   </data>
-  <data name="&gt;&gt;deleteToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="fileToolStripMenuItem.Text" xml:space="preserve">
+    <value>Plik</value>
   </data>
-  <data name="&gt;&gt;zoomLbl.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusBarPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="undoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 22</value>
   </data>
-  <data name="statusBar.Text" xml:space="preserve">
-    <value>                                      </value>
+  <data name="undoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Cofnij</value>
+  </data>
+  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 6</value>
+  </data>
+  <data name="cutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 22</value>
+  </data>
+  <data name="cutToolStripMenuItem.Text" xml:space="preserve">
+    <value>Wytnij</value>
+  </data>
+  <data name="copyToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 22</value>
+  </data>
+  <data name="copyToolStripMenuItem.Text" xml:space="preserve">
+    <value>Kopiuj</value>
+  </data>
+  <data name="pasteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 22</value>
+  </data>
+  <data name="pasteToolStripMenuItem.Text" xml:space="preserve">
+    <value>Wklej</value>
+  </data>
+  <data name="deleteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 22</value>
+  </data>
+  <data name="deleteToolStripMenuItem.Text" xml:space="preserve">
+    <value>Usuń</value>
+  </data>
+  <data name="toolStripMenuItem3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 6</value>
+  </data>
+  <data name="selectAllToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 22</value>
+  </data>
+  <data name="selectAllToolStripMenuItem.Text" xml:space="preserve">
+    <value>Zaznacz wszystko</value>
+  </data>
+  <data name="timeDateToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 22</value>
+  </data>
+  <data name="timeDateToolStripMenuItem.Text" xml:space="preserve">
+    <value>Godzina/data</value>
+  </data>
+  <data name="editToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="editToolStripMenuItem.Text" xml:space="preserve">
+    <value>Edycja</value>
+  </data>
+  <data name="wordWrapToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 22</value>
+  </data>
+  <data name="wordWrapToolStripMenuItem.Text" xml:space="preserve">
+    <value>Zawijanie wierszy</value>
+  </data>
+  <data name="fontToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 22</value>
+  </data>
+  <data name="fontToolStripMenuItem.Text" xml:space="preserve">
+    <value>Czcionka...</value>
+  </data>
+  <data name="zoomInToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>290, 22</value>
+  </data>
+  <data name="zoomInToolStripMenuItem.Text" xml:space="preserve">
+    <value>Powiększ</value>
+  </data>
+  <data name="zoomOutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>290, 22</value>
+  </data>
+  <data name="zoomOutToolStripMenuItem.Text" xml:space="preserve">
+    <value>Pomniejsz</value>
+  </data>
+  <data name="restoreDefaultZoomToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>290, 22</value>
+  </data>
+  <data name="restoreDefaultZoomToolStripMenuItem.Text" xml:space="preserve">
+    <value>Przywróć powiększenie domyślne</value>
+  </data>
+  <data name="zoomToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 22</value>
+  </data>
+  <data name="zoomToolStripMenuItem.Text" xml:space="preserve">
+    <value>Powiększenie</value>
+  </data>
+  <data name="statusBarToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 22</value>
+  </data>
+  <data name="statusBarToolStripMenuItem.Text" xml:space="preserve">
+    <value>Pasek stanu</value>
+  </data>
+  <data name="viewToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
   </data>
   <data name="viewToolStripMenuItem.Text" xml:space="preserve">
-    <value>View</value>
+    <value>Widok</value>
   </data>
-  <data name="&gt;&gt;wordWrapToolStripMenuItem.Name" xml:space="preserve">
-    <value>wordWrapToolStripMenuItem</value>
+  <data name="viewHelpToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 22</value>
   </data>
-  <data name="&gt;&gt;openToolStripMenuItem.Name" xml:space="preserve">
-    <value>openToolStripMenuItem</value>
+  <data name="viewHelpToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Wyświetl pomoc</value>
   </data>
-  <data name="&gt;&gt;blankLbl.Name" xml:space="preserve">
-    <value>blankLbl</value>
+  <data name="sendFeedbackToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 22</value>
   </data>
-  <data name="statusBar.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
+  <data name="sendFeedbackToolStripMenuItem.Text" xml:space="preserve">
+    <value>Wyślij opinię</value>
   </data>
-  <data name="newWindowToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Shift+N</value>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 6</value>
   </data>
-  <data name="menuBar.Text" xml:space="preserve">
-    <value>menuStrip1</value>
+  <data name="aboutNotepadToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 22</value>
   </data>
-  <data name="&gt;&gt;statusBar.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="aboutNotepadToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Notatnik - informacje</value>
   </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1920, 2</value>
+  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 20</value>
+  </data>
+  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
+    <value>Pomoc</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -3048,166 +2755,4 @@
         +D8AAP//AAA=
 </value>
   </data>
-  <data name="viewHelpToolStripMenuItem1.Text" xml:space="preserve">
-    <value>View Help</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItem2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;sendFeedbackToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="textBox.Multiline" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;cutToolStripMenuItem.Name" xml:space="preserve">
-    <value>cutToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;selectAllToolStripMenuItem.Name" xml:space="preserve">
-    <value>selectAllToolStripMenuItem</value>
-  </data>
-  <data name="openToolStripMenuItem.Text" xml:space="preserve">
-    <value>Open</value>
-  </data>
-  <data name="&gt;&gt;newWindowToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;wordWrapToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;copyToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="editToolStripMenuItem.Text" xml:space="preserve">
-    <value>Edit</value>
-  </data>
-  <data name="&gt;&gt;cutToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="deleteToolStripMenuItem.Text" xml:space="preserve">
-    <value>Delete</value>
-  </data>
-  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>161, 6</value>
-  </data>
-  <data name="&gt;&gt;windowsLbl.Name" xml:space="preserve">
-    <value>windowsLbl</value>
-  </data>
-  <data name="zoomInToolStripMenuItem.Text" xml:space="preserve">
-    <value>Zoom In</value>
-  </data>
-  <data name="cutToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+X</value>
-  </data>
-  <data name="saveAsToolStripMenuItem.Text" xml:space="preserve">
-    <value>&amp;Save As</value>
-  </data>
-  <data name="&gt;&gt;zoomInToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="zoomLbl.Text" xml:space="preserve">
-    <value>100%</value>
-  </data>
-  <data name="&gt;&gt;formatToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;saveToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>800, 450</value>
-  </data>
-  <data name="&gt;&gt;statusBar.Name" xml:space="preserve">
-    <value>statusBar</value>
-  </data>
-  <data name="&gt;&gt;zoomToolStripMenuItem.Name" xml:space="preserve">
-    <value>zoomToolStripMenuItem</value>
-  </data>
-  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>36, 20</value>
-  </data>
-  <data name="&gt;&gt;saveAsToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="windowsLbl.Width" type="System.Int32, mscorlib">
-    <value>120</value>
-  </data>
-  <data name="&gt;&gt;zakończToolStripMenuItem.Name" xml:space="preserve">
-    <value>zakończToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;textBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="undoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 22</value>
-  </data>
-  <data name="&gt;&gt;undoToolStripMenuItem.Name" xml:space="preserve">
-    <value>undoToolStripMenuItem</value>
-  </data>
-  <data name="windowsLbl.Name" xml:space="preserve">
-    <value>windowsLbl</value>
-  </data>
-  <data name="zoomOutToolStripMenuItem.Text" xml:space="preserve">
-    <value>Zoom Out</value>
-  </data>
-  <data name="countLbl.Text" xml:space="preserve">
-    <value>  Ln 1, Col 1</value>
-  </data>
-  <data name="blankLbl.Name" xml:space="preserve">
-    <value>blankLbl</value>
-  </data>
-  <data name="zoomLbl.Name" xml:space="preserve">
-    <value>zoomLbl</value>
-  </data>
-  <data name="wordWrapToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>134, 22</value>
-  </data>
-  <data name="codingLbl.Text" xml:space="preserve">
-    <value>UTF-8</value>
-  </data>
-  <data name="&gt;&gt;pasteToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;menuBar.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="wordWrapToolStripMenuItem.Text" xml:space="preserve">
-    <value>Word Wrap</value>
-  </data>
-  <data name="windowsLbl.Text" xml:space="preserve">
-    <value>Windows (CRLF)</value>
-  </data>
-  <data name="saveToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+S</value>
-  </data>
-  <data name="blankLbl.Width" type="System.Int32, mscorlib">
-    <value>400</value>
-  </data>
-  <data name="fileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>29, 20</value>
-  </data>
-  <data name="codingLbl.Name" xml:space="preserve">
-    <value>codingLbl</value>
-  </data>
-  <data name="textBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>800, 408</value>
-  </data>
-  <data name="pasteToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+V</value>
-  </data>
-  <data name="copyToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 22</value>
-  </data>
-  <data name="textBox.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Consolas, 11.25pt</value>
-  </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="menuBar.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>42</value>
-  </metadata>
 </root>

@@ -347,10 +347,7 @@ namespace Notepad
 
         private void aboutNotepadToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            using (frmAbout frm = new frmAbout())
-            {
-                frm.ShowDialog();
-            }
+            System.Diagnostics.Process.Start(@"C:\Windows\System32\winver.exe");
         }
 
         private void menuBar_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
